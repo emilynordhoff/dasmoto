@@ -1,0 +1,35 @@
+
+* {
+  font-family:Helvetica;
+}
+h2 {
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+  border-radius:10px;
+  padding:10px;
+}
+.title {
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  border-radius:10px;
+}
+.price {
+  font-weight:Bold;
+  color:blue;
+}
+.frames h2 {
+  background-color:lightcoral;
+}
+.brushes h2 {
+  background-color:mediumspringgreen;
+}
+.paint h2 {
+  background-color:skyblue;
+}
+.products {
+  border-radius:10px;
+}
